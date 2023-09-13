@@ -1,5 +1,7 @@
 # boids
 
+🐦 🦅 🐓 🐧 🕊️ 🦚 🦆 🦩
+
 ## Run
 
 ```
@@ -17,4 +19,4 @@ Now head to `localhost:3000`
 
 ## Example
 
-![example](assets/example.mp4)
+![example](assets/example.gif)
